@@ -1,0 +1,4 @@
+<---------      Passenger Details     --------->
+
+Cabin No 1 is reserved by PASJINDU, null and  null.
+
